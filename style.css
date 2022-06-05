@@ -269,7 +269,6 @@ a {
 /*------ all products page ------*/
 .row-2 {
   justify-content: space-between;
-  margin: 100px auto 50px;
 }
 
 select {
@@ -283,6 +282,7 @@ select:focus {
 
 .page-btn {
   margin: 0 auto 80px;
+  padding-bottom: 20px;
 }
 
 .page-btn span {
