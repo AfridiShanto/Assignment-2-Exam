@@ -636,4 +636,7 @@ p {
 .row-1 {
   flex-direction: column;
 }
+.titel{
+  padding-top: 50px;
+}
 }
