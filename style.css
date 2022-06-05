@@ -550,6 +550,7 @@ p {
     position: relative;
   }
   .flexbox {
+    padding-top: 100px;
       flex-direction: column-reverse;
       margin: 0 1rem;
   }
